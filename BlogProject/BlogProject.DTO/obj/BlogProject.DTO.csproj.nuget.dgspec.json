@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj": {}
+    "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj": {
+    "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj",
         "projectName": "BlogProject.DTO",
-        "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj",
+        "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj",
         "packagesPath": "C:\\Users\\Naime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\obj\\",
+        "outputPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

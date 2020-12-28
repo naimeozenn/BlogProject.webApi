@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "skFJXCST7hxBXGs/JfeA2am8hsudTUPc1940ARdBUbhuqU3CBLTJ0YVUykQS7wf7vAn7GogWaYLYUMGcCHtD5g==",
+  "dgSpecHash": "sHEw4kTNg+eT3INswFmd9be3Yf5se3xKl7VMKhU8bAGwU7zT3HXqUEs2SrRR8hGKvbK1W1CUa5S+hpdwiMStKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.WebApi\\BlogProject.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.WebApi\\BlogProject.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Naime\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Naime\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

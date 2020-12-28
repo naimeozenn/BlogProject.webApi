@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj": {}
+    "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj": {
+    "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj",
         "projectName": "BlogProject.Entities",
-        "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj",
+        "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Entities\\BlogProject.Entities.csproj",
         "packagesPath": "C:\\Users\\Naime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -34,7 +34,7 @@ namespace BlogProject.Business.Containers.MicrosoftIoC
             services.AddScoped<ICommentDal, EfCommentRepository>();
 
             services.AddScoped<IJwtService, JwtManager>();
-            //services.AddScoped<ICustomLogger, NLogAdapter>();
+         
 
 
             services.AddTransient<IValidator<AppUserLoginDto>, AppUserLoginValidator>();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQ2ntn16rTkEvLXH9JAMg0XOb/nKP5Eu/qCNNIahtuFDXrBxUNKbrSC3aXyMJdtaguOSThd8ces79Jf/XQ9LPA==",
+  "dgSpecHash": "ysrc1jV5INBA2XGg4ayrUok4sy7aG9zU+VqDPlOKylj/t1Zi0GvwPFsNBpzalttjJaYuDF1hVr56FvgYLRmI8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DataAccess\\BlogProject.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DataAccess\\BlogProject.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Naime\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Naime\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

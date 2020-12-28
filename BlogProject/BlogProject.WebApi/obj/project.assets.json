@@ -5638,11 +5638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.WebApi\\BlogProject.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.WebApi\\BlogProject.WebApi.csproj",
       "projectName": "BlogProject.WebApi",
-      "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.WebApi\\BlogProject.WebApi.csproj",
+      "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.WebApi\\BlogProject.WebApi.csproj",
       "packagesPath": "C:\\Users\\Naime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5662,8 +5662,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj": {
-              "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj"
+            "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj": {
+              "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj"
             }
           }
         }

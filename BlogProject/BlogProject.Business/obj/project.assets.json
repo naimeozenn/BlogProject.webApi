@@ -5810,11 +5810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj",
       "projectName": "BlogProject.Business",
-      "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj",
+      "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Business\\BlogProject.Business.csproj",
       "packagesPath": "C:\\Users\\Naime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.Business\\obj\\",
+      "outputPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5834,11 +5834,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DataAccess\\BlogProject.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DataAccess\\BlogProject.DataAccess.csproj"
+            "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DataAccess\\BlogProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DataAccess\\BlogProject.DataAccess.csproj"
             },
-            "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj": {
-              "projectPath": "C:\\Users\\Naime\\Desktop\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj"
+            "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj": {
+              "projectPath": "C:\\Users\\Naime\\Desktop\\Biten projeler\\blog\\BlogProject\\BlogProject.DTO\\BlogProject.DTO.csproj"
             }
           }
         }

@@ -85,15 +85,6 @@ namespace BlogProject.WebApi.Controllers
             return Ok(listCategory);
         }
 
-        //[Route("/Error")]
-        ////public IActionResult Error()
-        ////{
-        ////    var errorInfo = HttpContext.Features.Get<IExceptionHandlerPathFeature>();
-        ////    _customLogger.LogError($"\nHatanın oluştuğu yer:{errorInfo.Path}\n Hata Mesajı : {errorInfo.Error.Message} \n Stack Trace: {errorInfo.Error.StackTrace}");
-        ////    return Problem(detail: "bir hata olustu, en kisa zamanda fixlenecek");
-        ////}
-
-
 
     }
 }
